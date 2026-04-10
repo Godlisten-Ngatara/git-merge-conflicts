@@ -2,4 +2,4 @@
 
 ## competing line merge conflicts
 
-This happens when changes are made to the same line of some file in different git branches
+This happens when changes are made to the same line of the same line file in different git branches
